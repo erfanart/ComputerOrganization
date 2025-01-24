@@ -1,3 +1,6 @@
 [submodule "LUMOS"]
 	path = LUMOS
 	url = https://github.com/IUST-Computer-Organization/LUMOS.git
+[submodule "FinalProject/LUMOS"]
+	path = FinalProject/LUMOS
+	url = https://github.com/IUST-Computer-Organization/LUMOS.git
