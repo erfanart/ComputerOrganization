@@ -1,0 +1,3 @@
+[submodule "LUMOS"]
+	path = LUMOS
+	url = https://github.com/IUST-Computer-Organization/LUMOS.git
