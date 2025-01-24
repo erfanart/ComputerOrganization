@@ -2,7 +2,7 @@
 <h3 style="text-align: center;">  به نام خدا</h3>
 <br>
 
-<div style="text-align: center;">
+<div aligne="center">
 
 ![image](Files/IUST_logo_color.png)
 
